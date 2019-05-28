@@ -1,4 +1,4 @@
-/
+
 # API Design Patterns And Use Cases
 
 
